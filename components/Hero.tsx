@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Adrian, a Next.js Developer based in Croatia.
+            Hello! I&apos;m Ahmed, Developer based in Phoenix, AZ, USA.
           </p>
 
           <a href="#about">
